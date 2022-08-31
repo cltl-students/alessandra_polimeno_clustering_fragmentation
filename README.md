@@ -47,4 +47,4 @@ The result of the evaluation can be found in this folder.
 ## Acknowledgements 
 The Fragmentation metric that is implemented is developed by Sanne Vrijenhoek. 
 For further reading see: 
-- S. Vrijenhoek, M. Kaya, N. Metoui, J. M ̈oller, D. Odijk, and N. Helberger. Recommenders with a mission: assessing diversity in news recommendations. In Proceedings of the 2021 Conference on Human Information Interaction and Retrieval, pages 173–183, 2021.
+- S. Vrijenhoek, M. Kaya, N. Metoui, J. Möller, D. Odijk, and N. Helberger. Recommenders with a mission: assessing diversity in news recommendations. In Proceedings of the 2021 Conference on Human Information Interaction and Retrieval, pages 173–183, 2021.
