@@ -16,7 +16,7 @@ Two clustering methods are applied to the articles to obtain the groups of news 
 * Agglomerative Hierarchical Clustering 
 * DB-Scan 
 
-## Repository Overvies
+## Repository Overview
 What follows is an overview of the scripts that were used for data scraping and cleaning, obtaining machine-readable text representations, applying clustering algorithms, and evaluation, as well as the dataset and results. 
 
 ### `data` 
